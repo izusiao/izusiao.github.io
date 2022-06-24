@@ -1,37 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.40b0e58a.chunk.css",
-    "main.js": "/static/js/main.3ce172ad.chunk.js",
-    "main.js.map": "/static/js/main.3ce172ad.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3ebe6abe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3ebe6abe.js.map",
-    "static/js/2.f551957b.chunk.js": "/static/js/2.f551957b.chunk.js",
-    "static/js/2.f551957b.chunk.js.map": "/static/js/2.f551957b.chunk.js.map",
-    "static/js/3.5cc7678e.chunk.js": "/static/js/3.5cc7678e.chunk.js",
-    "static/js/3.5cc7678e.chunk.js.map": "/static/js/3.5cc7678e.chunk.js.map",
+    "main.css": "/static/css/main.2af9d63a.css",
+    "main.js": "/static/js/main.6e2cd423.js",
+    "static/media/me.png": "/static/media/me.2bb751725178860464a3.png",
+    "static/media/logo_light.png": "/static/media/logo_light.5e1b9b55f7bc6453a3f5.png",
+    "static/media/landscape.png": "/static/media/landscape.3a92438bb8d1ec8ca384.png",
     "index.html": "/index.html",
-    "static/css/main.40b0e58a.chunk.css.map": "/static/css/main.40b0e58a.chunk.css.map",
-    "static/js/2.f551957b.chunk.js.LICENSE.txt": "/static/js/2.f551957b.chunk.js.LICENSE.txt",
-    "static/media/artistic_background.ad4ed7d5.png": "/static/media/artistic_background.ad4ed7d5.png",
-    "static/media/bullet.ecd11cc7.png": "/static/media/bullet.ecd11cc7.png",
-    "static/media/doodle1.214ee9b7.png": "/static/media/doodle1.214ee9b7.png",
-    "static/media/doodle2.e98d0ef3.png": "/static/media/doodle2.e98d0ef3.png",
-    "static/media/flowers.58dd5341.png": "/static/media/flowers.58dd5341.png",
-    "static/media/flowers1_transparent.6b30fb48.png": "/static/media/flowers1_transparent.6b30fb48.png",
-    "static/media/flowers2_transparent.6ae23e0b.png": "/static/media/flowers2_transparent.6ae23e0b.png",
-    "static/media/flowers3_transparent.3a9f6665.png": "/static/media/flowers3_transparent.3a9f6665.png",
-    "static/media/mamaminia_logo.b4c327f4.png": "/static/media/mamaminia_logo.b4c327f4.png",
-    "static/media/me.f264eeaf.png": "/static/media/me.f264eeaf.png",
-    "static/media/panda_blue_green.014dd3e8.png": "/static/media/panda_blue_green.014dd3e8.png",
-    "static/media/panda_blue_violet.64ecfc40.png": "/static/media/panda_blue_violet.64ecfc40.png",
-    "static/media/text.57460957.svg": "/static/media/text.57460957.svg",
-    "static/media/tree.57096db7.png": "/static/media/tree.57096db7.png",
-    "static/media/twoHeartsOneSoul.e56e33c7.png": "/static/media/twoHeartsOneSoul.e56e33c7.png"
+    "main.2af9d63a.css.map": "/static/css/main.2af9d63a.css.map",
+    "main.6e2cd423.js.map": "/static/js/main.6e2cd423.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ebe6abe.js",
-    "static/js/2.f551957b.chunk.js",
-    "static/css/main.40b0e58a.chunk.css",
-    "static/js/main.3ce172ad.chunk.js"
+    "static/css/main.2af9d63a.css",
+    "static/js/main.6e2cd423.js"
   ]
 }
